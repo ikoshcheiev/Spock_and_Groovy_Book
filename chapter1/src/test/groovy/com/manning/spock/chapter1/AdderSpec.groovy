@@ -3,6 +3,7 @@ package com.manning.spock.chapter1
 import spock.lang.*
 
 class AdderSpec extends spock.lang.Specification{
+    //added in master
 	def "Adding two numbers to return the sum"() {
 		when: "a new Adder class is created"
 		def adder = new Adder();
