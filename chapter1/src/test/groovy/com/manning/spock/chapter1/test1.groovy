@@ -4,7 +4,9 @@
 class test{
     //start
     def 'first'() {
-        print('Hello!')
-        print('Hello!')
+        print('Hello!');
+        print('Hello!');
+        //;
+
     }
 }
