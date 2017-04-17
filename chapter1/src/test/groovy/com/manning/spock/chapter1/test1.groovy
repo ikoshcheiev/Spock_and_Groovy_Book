@@ -4,6 +4,6 @@
 class test{
     //start
     def 'first'() {
-
+        //;
     }
 }
