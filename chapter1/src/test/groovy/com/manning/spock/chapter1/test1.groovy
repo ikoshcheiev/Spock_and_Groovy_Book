@@ -7,5 +7,7 @@ class test{
         print('Hello!');
 
         print('Hello!');
+
+        print('Hello!');
     }
 }
