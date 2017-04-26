@@ -5,5 +5,7 @@ class test{
     def 'first'() {
         print('Hello!');
         print('Hello!');
+
+        print('Hello!');
     }
 }
